@@ -439,7 +439,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "./JS/js/央视大全.js"
+            "ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/大全央视[央].js"
         },
         {
             "key": "csp_XYQHiker_兔小贝",
