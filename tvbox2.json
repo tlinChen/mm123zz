@@ -431,10 +431,10 @@
             "ext": "./py/央视片库.py"
         },
         {
-            "key": "drjs_央视4K1[央]",
+            "key": "hipy_js_央视大全",
             "name": "央视┃大全",
             "type": 3,
-            "api": "./JS/lib/drpy2.min.js",
+            "api": "./JS/lib/drpy1.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
