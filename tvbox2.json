@@ -95,7 +95,7 @@
             "key": "js_毒蛇",
             "name": "毒蛇┃影视",
             "type": 3,
-            "api": "./JS/lib/drpy2.min.js",
+            "api": "./JS/lib/drpy1.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -116,7 +116,7 @@
             "key": "js_网飞猫",
             "name": "耐菲┃卡特",
             "type": 3,
-            "api": "./JS/lib/drpy2.min.js",
+            "api": "./JS/lib/drpy1.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -127,7 +127,7 @@
             "key": "hipy_js_多多追剧[优]",
             "name": "多多┃追剧",
             "type": 3,
-            "api": "./JS/lib/drpy2.min.js",
+            "api": "./JS/lib/drpy1.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -366,7 +366,7 @@
             "key": "drpy_js_JustLive",
             "name": " 直播┃JS",
             "type": 3,
-            "api": "./JS/lib/drpy2.min.js",
+            "api": "./JS/lib/drpy1.min.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -407,13 +407,6 @@
             ]
         },
         {
-            "key": "360资源",
-            "name": "卫士┃影视",
-            "type": "1",
-            "api": "https://360zy.com/api.php/provide/vod",
-            "playurl": "json:https://jx.behds.cn/qcb.php?url="
-        },
-        {
             "key": "ikun",
             "name": "ikun┃资源",
             "type": 1,
@@ -441,7 +434,7 @@
             "key": "hipy_js_央视大全",
             "name": "央视┃大全",
             "type": 3,
-            "api": "./JS/lib/drpy2.min.js",
+            "api": "./JS/lib/drpy1.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
