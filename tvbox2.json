@@ -407,9 +407,9 @@
             ]
         },
         {
-            "key": "cjzy_360资源",
+            "key": "360资源",
             "name": "卫士┃影视",
-            "type": "json",
+            "type": "1",
             "api": "https://360zy.com/api.php/provide/vod",
             "playurl": "json:https://jx.behds.cn/qcb.php?url="
         },
