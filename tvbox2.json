@@ -127,7 +127,7 @@
             "key": "hipy_js_多多追剧[优]",
             "name": "多多┃追剧",
             "type": 3,
-            "api": "./JS/lib/drpy1.min.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/JS/lib/drpy1.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
