@@ -29,7 +29,7 @@
             "key": "drpy_js_豆瓣",
             "name": "豆瓣┃[js]",
             "type": 3,
-            "api": "./JS/lib/drpy2.min.js",
+            "api": "./JS/lib/drpy.min.js",
             "ext": "./JS/js/drpy.js",
             "searchable": 1,
             "quickSearch": 0,
@@ -81,21 +81,21 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "./JS/lib/drpy2.min.js",
+            "api": "./JS/lib/drpy.min.js",
             "ext": "./JS/js/荐片.js"
         },
         {
             "key": "drpy_js_子子影视",
             "name": "子子┃JS",
             "type": 3,
-            "api": "./JS/lib/drpy2.min.js",
+            "api": "./JS/lib/drpy.min.js",
             "ext": "./JS/js/子子影视.js"
         },
         {
             "key": "drpy_js_毒蛇",
             "name": "毒蛇┃影视",
             "type": 3,
-            "api": "./JS/lib/drpy2.min.js",
+            "api": "./JS/lib/drpy.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -105,7 +105,7 @@
             "key": "hipy_js_4K-AV",
             "name": "4K┃JS",
             "type": 3,
-            "api": "./JS/lib/drpy2.min.js",
+            "api": "./JS/lib/drpy.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -116,7 +116,7 @@
             "key": "drpy_js_网飞猫",
             "name": "耐菲┃卡特",
             "type": 3,
-            "api": "./JS/lib/drpy2.min.js",
+            "api": "./JS/lib/drpy.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -127,7 +127,7 @@
             "key": "hipy_js_多多追剧[优]",
             "name": "多多┃追剧",
             "type": 3,
-            "api": "./JS/lib/drpy2.min.js",
+            "api": "./JS/lib/drpy.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -366,7 +366,7 @@
             "key": "drpy_js_JustLive",
             "name": " 直播┃JS",
             "type": 3,
-            "api": "./JS/lib/drpy2.min.js",
+            "api": "./JS/lib/drpy.min.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -431,7 +431,7 @@
             "ext": "./py/央视片库.py"
         },
         {
-            "key": "hipy_js_央视大全",
+            "key": "drjs_央视4K1[央]",
             "name": "央视┃大全",
             "type": 3,
             "api": "./JS/lib/drpy2.min.js",
