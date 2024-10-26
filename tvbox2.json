@@ -315,7 +315,7 @@
             "jar": "./JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontents.com/cyalias/mytvs-github/eff5289ff65d15c9f87b46163facf931adb90457/sgdc/%E7%AE%80%E5%BD%B1/lib/4K%E5%89%A7%E9%99%A2.json"
+            "ext": "./xBPQ/4kys.json"
         },
         {
             "key": "热播库",
