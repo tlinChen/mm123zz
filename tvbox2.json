@@ -7,16 +7,16 @@
             "type": 0,
             "url": "https://gitlab.com/fantaiying/ext/-/raw/main/id.txt",
             "playerType": 1,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.com/tv/{name}.png"
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
             "name": "live2",
             "type": 0,
             "url": "https://ghp.ci/raw.githubusercontent.com/Dong-learn9/AutoIPTV/master/output/user_result.txt",
             "playerType": 1,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.com/tv/{name}.png"
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
             "name": "直播",
