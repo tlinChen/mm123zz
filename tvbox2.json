@@ -1,9 +1,9 @@
 {
     "spider": "./JAR/fan.txt;md5;8851819289f80deae32319080028db3b",
-"wallpaper": "https://深色壁纸.xxooo.cf/",
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
     "lives": [
         {
-            "name": "live",
+            "name": "l一",
             "type": 0,
             "url": "https://gitlab.com/fantaiying/ext/-/raw/main/id.txt",
             "playerType": 1,
@@ -11,12 +11,20 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "live2",
+            "name": "l二",
             "type": 0,
             "url": "https://ghp.ci/raw.githubusercontent.com/Dong-learn9/AutoIPTV/master/output/user_result.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "三",
+            "type": 0,
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u",
+            "playerType": 1,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
             "name": "直播",
