@@ -3,7 +3,7 @@
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "lives": [
         {
-            "name": "l一",
+            "name": "一",
             "type": 0,
             "url": "https://gitlab.com/fantaiying/ext/-/raw/main/id.txt",
             "playerType": 1,
@@ -11,7 +11,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "l二",
+            "name": "二",
             "type": 0,
             "url": "https://ghp.ci/raw.githubusercontent.com/Dong-learn9/AutoIPTV/master/output/user_result.txt",
             "playerType": 1,
