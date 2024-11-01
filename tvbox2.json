@@ -7,13 +7,13 @@
             "type": 0,
             "url": "https://gitlab.com/fantaiying/ext/-/raw/main/id.txt",
             "playerType": 1,
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
             "name": "D",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/Dong-learn9/AutoTV/refs/heads/master/output/tv.txt",
+            "url": "https://ghp.ci/raw.githubusercontent.com/Dong-learn9/AutoTV/master/output/tv.txt",
             "playerType": 1,
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https: //epg.v1.mk/logo/{name}.png"
@@ -23,7 +23,7 @@
             "type": 0,
             "url": "https://gcore.jsdelivr.net/gh/yuanzl77/IPTV@latest/live.m3u",
             "playerType": 1,
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https: //epg.v1.mk/logo/{name}.png"
         },
         {
