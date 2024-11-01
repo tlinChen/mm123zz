@@ -3,7 +3,7 @@
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "lives": [
         {
-            "name": "一",
+            "name": "F",
             "type": 0,
             "url": "https://gitlab.com/fantaiying/ext/-/raw/main/id.txt",
             "playerType": 1,
@@ -11,7 +11,7 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "二",
+            "name": "D",
             "type": 0,
             "url": "https://raw.githubusercontent.com/Dong-learn9/AutoTV/refs/heads/master/output/tv.txt",
             "playerType": 1,
@@ -19,9 +19,9 @@
             "logo": "https: //epg.v1.mk/logo/{name}.png"
         },
         {
-            "name": "三",
+            "name": "L",
             "type": 0,
-            "url": "https://ghp.ci/raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u",
+            "url": "https://gcore.jsdelivr.net/gh/yuanzl77/IPTV@latest/live.m3u",
             "playerType": 1,
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https: //epg.v1.mk/logo/{name}.png"
