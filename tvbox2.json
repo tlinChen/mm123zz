@@ -3,7 +3,15 @@
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "lives": [
         {
-            "name": "Y",
+            "name": "DD",
+            "type": 0,
+            "url": "https://ghp.ci/raw.githubusercontent.com/Dong-learn9/AutoTV/master/output/tv.txt",
+            "playerType": 1,
+            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "YM",
             "type": 0,
             "url": "https://codeberg.org/Xym/ymz/raw/branch/main/ymz/ymzlive.txt",
             "playerType": 1,
@@ -11,20 +19,12 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "D",
-            "type": 0,
-            "url": "https://ghp.ci/raw.githubusercontent.com/Dong-learn9/AutoTV/master/output/tv.txt",
-            "playerType": 1,
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https: //epg.v1.mk/logo/{name}.png"
-        },
-        {
-            "name": "L",
+            "name": "LL",
             "type": 0,
             "url": "https://gcore.jsdelivr.net/gh/yuanzl77/IPTV@latest/live.m3u",
             "playerType": 1,
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https: //epg.v1.mk/logo/{name}.png"
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
             "name": "直播",
