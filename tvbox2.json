@@ -277,8 +277,8 @@
             "api": "csp_XBPQ",
             "jar": "./JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": {
-                "分类url": "https://kanmeiju.org/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ax",
-                "分类": "剧集$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju",
+                "分类url": "https: //www.kanmeiju.org/{cateId}/{class}_{area}_{year}__{by}_{catePg}.html/;;ax",
+                "分类": "国产剧$guocanju#欧美剧$oumeiju#日韩剧$rihan#港台剧$gangtai#海外$haiwaiju#泰剧$taiguoju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#纪录片$jilupian#动画片$donghuapian#动漫$dongman#综艺$zongyi#短剧$duanju",
                 "数组二次截取": "class=\"pic-list&&</ul",
                 "数组": "<li>&&</li",
                 "线路数组": "class=\"py-tabs&&</select>"
