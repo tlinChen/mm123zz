@@ -1,8 +1,7 @@
 var rule = {
-author: '小可乐/240701/第二版',
 title: '4KAV',
 类型: '影视',
-host: 'https://4k-av.com',
+host: 'https://www.4kvm.pro',
 hostJs: '',
 headers: {'User-Agent': 'IOS_UA'},
 编码: 'utf-8',

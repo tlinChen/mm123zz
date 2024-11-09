@@ -176,15 +176,6 @@
             "ext": "./xBPQ/素白白.json"
         },
         {
-            "key": "csp_xBPQ_白嫖影视",
-            "name": "白嫖┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": "1",
-            "jar": "./JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "./xBPQ/白嫖影视.json"
-        },
-        {
             "key": "爱电影",
             "name": "爱影┃BPQ",
             "type": 3,
@@ -231,21 +222,6 @@
             "ext": "./xBPQ/两个BT.json"
         },
         {
-            "key": "蘑菇",
-            "name": "蘑菇┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": {
-                "主页url": "https://www.moguys.work/",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-                "搜索url": "https://www.moguys.work/vodsearch/-------------.html?wd={wd}",
-                "分类url": "https://www.moguys.work/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ak"
-            }
-        },
-        {
             "key": "saohuo",
             "name": "骚火┃BPQ",
             "type": 3,
@@ -267,21 +243,6 @@
                 "跳转播放链接": "<iframe*src=\"&&\"",
                 "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
                 "三次跳转播放链接": "\"url\"*\"&&\""
-            }
-        },
-        {
-            "key": "csp_看客网",
-            "name": "看客┃BPQ",
-            "type": 3,
-            "playerType": "1",
-            "api": "csp_XBPQ",
-            "jar": "./JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": {
-                "分类url": "https://www.kanmeiju.org/{cateId}/{class}_{area}_{year}__{by}_{catePg}.html/",
-                "分类": "国产剧$guocanju#欧美剧$oumeiju#日韩剧$rihan#港台剧$gangtai#海外$haiwaiju#泰剧$taiguoju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#纪录片$jilupian#动画片$donghuapian#动漫$dongman#综艺$zongyi#短剧$duanju",
-                "数组二次截取": "class=\"box-video-list&&</ul",
-                "数组": "<li>&&</li",
-                "线路数组": "class=\"py-tabs&&</select>"
             }
         },
         {
