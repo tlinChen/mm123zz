@@ -100,17 +100,6 @@
             "ext": "./JS/js/毒蛇电影.js"
         },
         {
-            "key": "hipy_js_4K-AV",
-            "name": "4K┃JS",
-            "type": 3,
-            "api": "./JS/lib/drpy.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "./JS/js/4K-AV.js"
-        },
-        {
             "key": "hipy_js_多多追剧[优]",
             "name": "多多┃追剧",
             "type": 3,
@@ -252,6 +241,14 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./xBPQ/4kys.json"
+        },
+        {
+            "key": "XBPQ_BT影视",
+            "name": "BT┃BPQ",
+            "jar": "./JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./xBPQ/BT影视.json"
         },
         {
             "key": "热播库",
