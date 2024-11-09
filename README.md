@@ -41,43 +41,25 @@ https://purge.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 
 4、EGP源
 
-http://epg.51zmt.top:8000/e.xml
+epg1：(hhttp://epg.51zmt.top:8000/api/diyp/)
 
-https://epg.112114.xyz/pp.xml
+epg2：(https://epg.112114.xyz/)
 
-以下为地址
+epg3：(https://e.erw.cc/)
 
-epg-DIYP接口1：(hhttp://epg.51zmt.top:8000/api/diyp/)
+epg4：(https://epg.pm/)
 
-epg-DIYP接口2：(http://diyp.112114.xyz/)
+epg5：(https://epg.pw/last/401480.html?lang=zh-hans)
 
-epg-DIYP接口3：(https://epg.hicloud.co/epg.php/)
-
-epg1：(https://epg.sec.st/epg.php/)
-
-epg3：(https://epg.pm/)
-
-epg4：(http://n33426t756.wicp.vip/diyp/epg.php/)
-
-epg5：(http://www.diyp.top/diyp/epg.php/)
-
-总epg：(http://epg.51zmt.top:8000/e.xml/)
-
-央视及各省卫视epg：(http://epg.51zmt.top:8000/cc.xml/)
-
-地方及数字付费epg：(http://epg.51zmt.top:8000/difang.xml/)
-
-港澳台及海外epg：(http://epg.51zmt.top:8000/gat.xml/)
+epg6：(https://tools.v1.mk/)
 
 epg6：(http://124.223.212.38:83/)
 
-epg7：(https://epg.112114.xyz/)
+5、直播源搜索
 
-[超级直播](https://epg.112114.xyz/epginfo)
+1、http://tonkiang.us/?
 
-[Xml格式](https://epg.112114.xyz/pp.xml)
-
-[Xml格式](https://epg.112114.xyz/pp.xml.gz)
+2、https://epg.pw/index.html?lang=zh-hans
 
 5、短地址平台
 
