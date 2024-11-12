@@ -297,7 +297,7 @@
             "filterable": 1,
             "timeout": 60,
             "jar": "https://www.fish2018.us.kg/p/pg.jar",
-            "ext": "https://www.fish2018.us.kg/p/lib/tokenm.json$$$null$$$noproxy$$$1",
+            "ext": "https://www.fish2018.us.kg/p/lib/tokenm.json",
             "style": {
                 "type": "list",
                 "ratio": 1.1
