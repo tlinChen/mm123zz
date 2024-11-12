@@ -288,13 +288,31 @@
             "ext": "./XYQH/mp4影视.json"
         },
         {
-            "key": "新6v",
-            "name": "6V┃磁力",
+            "key": "Bt0",
+            "name": "不太灵|磁力",
             "type": 3,
-            "api": "csp_XYQHiker",
-            "playerType": 2,
-            "jar": "./JAR/XYQH.jar;md5;81544697BC790013FC5BB1D2939BF0B6",
-            "ext": "./XYQH/6V电影.json"
+            "api": "csp_Bt0",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "jar": "https://www.fish2018.us.kg/p/pg.jar",
+            "ext": "https://www.fish2018.us.kg/p/lib/tokenm.json$$$null$$$noproxy$$$1",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "新6V",
+            "name": "新6V|网盘",
+            "type": 3,
+            "api": "csp_Xb6v",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "jar": "https://www.fish2018.us.kg/p/pg.jar",
+            "ext": "https://www.fish2018.us.kg/p/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
         },
         {
             "key": "电影港",
@@ -487,9 +505,24 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
+            "jar": "https://www.fish2018.us.kg/p/pg.jar",
             "ext": {
                 "aliToken": "tvbox/token.txt",
                 "from": "4k|auto|fhd"
+            }
+        },
+        {
+            "key": "网盘配置",
+            "name": "网盘及彈幕配置",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "jar": "https://www.fish2018.us.kg/p/pg.jar",
+            "ext": "./lib/tokenm.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
             }
         },
         {
@@ -499,8 +532,8 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "jar": "./JAR/pg.jar;md5;7C03297C89AA832F88092D4567664AD8",
-            "ext": "https://fm.t4tv.hz.cz/json/market.json"
+            "jar": "pg.jar",
+            "ext": "https://www.fish2018.us.kg/p/pg.jar"
         },
         {
             "key": "push_agent",
