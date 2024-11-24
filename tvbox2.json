@@ -273,7 +273,7 @@
         },
         {
             "key": "csp_XBPQ_金牌",
-            "name": "金牌| XBPQ",
+            "name": "金牌| BPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -340,7 +340,7 @@
 
         {
             "key": "csp_XBPQ_天堂",
-            "name": "天堂| XBPQ",
+            "name": "天堂| BPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
