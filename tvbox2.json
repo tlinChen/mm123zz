@@ -279,6 +279,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "./JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": {
                 "作者": "小可乐/2408/第五版",
                 "站名": "金牌影院",
@@ -345,6 +346,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "./JAR/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": {
                 "规则名": "BT天堂",
                 "规则作者": "",
@@ -441,7 +443,7 @@
             "type": 1,
             "api": "https://360zy.com/api.php/provide/vod",
             "playUrl": "",
-            "categories": [
+            "categories": [ 
                 "爽文短剧",
                 "国产剧",
                 "国产动漫",
