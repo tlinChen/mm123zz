@@ -91,7 +91,7 @@
         },
         {
             "key": "drpy_js_毒蛇",
-            "name": "毒蛇┃影视",
+            "name": "毒蛇┃JS",
             "type": 3,
             "api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
             "searchable": 1,
@@ -111,7 +111,7 @@
         },
         {
             "key": "hipy_js_多多追剧[优]",
-            "name": "多多┃追剧",
+            "name": "多多┃JS",
             "type": 3,
             "api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
             "searchable": 1,
@@ -295,7 +295,7 @@
                 "二次截取": "默认--list\":\\[&&\\]||首页--data\":{\"home&&newestShortTvPageData",
                 "数组": "{&&}",
                 "标题": "vodName\":\"&&\"",
-                "图片": "https://ywxohs.com+obs.gduamoe.com&&\"",
+                "图片": "srcset=\"&&\"",
                 "副标题": "vodRemarks\":\"&&\"+_+vodDoubanScore\":&&,",
                 "链接": "/detail/+vodId\":&&,",
                 "影片年代": "vodYear\":\"&&\"",
