@@ -8,7 +8,7 @@
             "url": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/Dong-learn9/AutoTV/master/output/result.txt",
             "playerType": 1,
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.com/tv/{name}.png"
+            "logo": "https://gitlab.com/fanmingming/live/-/raw/main/tv/{name}.png"
         },
         {
             "name": "YM",
