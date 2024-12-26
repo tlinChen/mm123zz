@@ -7,7 +7,7 @@
             "type": 0,
             "url": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/Dong-learn9/AutoTV/master/output/result.txt",
             "playerType": 1,
-            "epg": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml",
+            "epg": "https://e.erw.cc/e.xml",
             "logo": "https://gitlab.com/fanmingming/live/-/raw/main/tv/{name}.png"
         },
         {
@@ -15,7 +15,7 @@
             "type": 0,
             "url": "https://live.zbds.top/tv/iptv4.txt",
             "playerType": 1,
-            "epg": "http://106.14.90.17/?ch={name}&date={date}",
+            "epg": "https://e.erw.cc/e.xml",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
