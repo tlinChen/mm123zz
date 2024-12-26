@@ -7,7 +7,7 @@
             "type": 0,
             "url": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/Dong-learn9/AutoTV/master/output/result.txt",
             "playerType": 1,
-            "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
+            "epg": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml",
             "logo": "https://gitlab.com/fanmingming/live/-/raw/main/tv/{name}.png"
         },
         {
